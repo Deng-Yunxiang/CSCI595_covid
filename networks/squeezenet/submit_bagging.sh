@@ -15,4 +15,4 @@
 
 module load python/3.7.7
 source $HOME/ENV/bin/activate
-python $HOME/projects/def-jlevman/x2019/covid/networks/squeezenet/covid_squeezenet.py
+python $HOME/projects/def-jlevman/x2019/covid/networks/squeezenet/squeezenet_bagging.py
